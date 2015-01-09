@@ -1,4 +1,4 @@
-(简体中文版译者声明：Mozilla 公共许可协议 2.0版简体中文翻译版仅为开发者参考使用，并不具备法律效力。开发者开发和发布相关软件须以Mozilla Public License 2.0 英文版 （https://www.mozilla.org/MPL/2.0/）条款为准。译者不承担任何法律责任。 )
+(简体中文版译者声明：Mozilla 公共许可协议 2.0版简体中文翻译版仅为开发者参考使用，并不具备法律效力。开发者开发和发布相关软件须以Mozilla Public License 2.0 英文版 （https://www.mozilla.org/MPL/2.0/） 条款为准。译者不承担任何法律责任。)
 
 
 Mozilla 公共许可协议 2.0版
